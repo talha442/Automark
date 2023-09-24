@@ -1,0 +1,3 @@
+HOSTNAME="http://web.test/"
+CONSUMER_KEY=""
+CONSUMER_SECRET=""
